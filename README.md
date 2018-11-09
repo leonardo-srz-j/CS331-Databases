@@ -1,2 +1,2 @@
 # CS331-Databases
-Microsoft SQL Server
+Microsoft SQL Server and JDBC
